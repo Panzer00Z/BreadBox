@@ -4,9 +4,9 @@
 
 **A 3D-printed bench station that puts a breadboard, a programmable supply, a scope and a meter in one instrument.**
 
-<p>![Complete%20-%20in%20daily%20use](https://img.shields.io/badge/Complete%20-%20in%20daily%20use-1a7f37) &nbsp; ![Big%20Project](https://img.shields.io/badge/Big%20Project-8250df)</p>
+<p><img src="https://img.shields.io/badge/Complete%20-%20in%20daily%20use-1a7f37" alt="Complete - in daily use" height="20"> &nbsp; <img src="https://img.shields.io/badge/Big%20Project-8250df" alt="Big Project" height="20"></p>
 
-<p>![Fusion%20360](https://img.shields.io/badge/Fusion%20360-8250df) ![3D%20Printing](https://img.shields.io/badge/3D%20Printing-8250df) ![Lab%20Tooling](https://img.shields.io/badge/Lab%20Tooling-8250df) ![Power%20Supply](https://img.shields.io/badge/Power%20Supply-8250df) ![Breadboard](https://img.shields.io/badge/Breadboard-8250df)</p>
+<p><img src="https://img.shields.io/badge/Fusion%20360-8250df" alt="Fusion 360" height="20"> <img src="https://img.shields.io/badge/3D%20Printing-8250df" alt="3D Printing" height="20"> <img src="https://img.shields.io/badge/Lab%20Tooling-8250df" alt="Lab Tooling" height="20"> <img src="https://img.shields.io/badge/Power%20Supply-8250df" alt="Power Supply" height="20"> <img src="https://img.shields.io/badge/Breadboard-8250df" alt="Breadboard" height="20"></p>
 
 <img src="photos/18-full-front-panel.jpg" width="880" alt="Front panel with the programmable supply, the oscilloscope showing a live waveform, the voltmeter, and the touchscreen on the breadboard">
 
