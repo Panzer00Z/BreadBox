@@ -22,7 +22,7 @@
 | **Started** | January 2026 |
 | **Status** | Complete - in daily use |
 | **Core hardware** | DPS5005 programmable DC supply, DSO154Pro oscilloscope, 48 V panel voltmeter/ammeter, BB1660 solderless breadboard |
-| **Design tools** | Fusion 360, 3D printing, soldering, bench instrumentation |
+| **Design tools** | Fusion 360, 3D printing on a BambuLabs X1C, soldering, bench instrumentation |
 | **Scope** | Enclosure and panel design, power distribution, integration of off-the-shelf instrument modules |
 
 ## Overview
@@ -81,6 +81,19 @@ The instrument modules were chosen as complete units so the front panel only has
 | Test hook clip leads | Silicone male/female test leads for the breadboard | 10 |
 | Dupont to banana jumper cables | 26 AWG silicone, male Dupont to stackable banana plug | 10 |
 | 3D-printed enclosure | PLA filament, angled front panel, dovetail module split | 1 |
+
+### Software and tools
+
+This is an integration project rather than a board design, so the tooling is split between CAD for the enclosure and the bench instruments the station itself is built from.
+
+| Tool | Category | What it was used for |
+|---|---|---|
+| Fusion 360 | 3D CAD | The enclosure: the angled front panel, the dovetail split between the instrument module and the breadboard module, the mounting cut-outs and the internal standoffs. The printed body set the mounting pattern, so the modules were drilled to the part rather than the part being adapted to the modules. |
+| 3D printing on a BambuLabs X1C | Fabrication | The PLA body and front panel. |
+| DPS5005 programmable DC supply | Test and measurement | The station's own supply module - set-point, voltage and current limit - as well as the source that feeds everything else. |
+| ZEEWEII DSO154Pro oscilloscope | Test and measurement | Signal measurement on the bench without a separate scope on the desk. |
+| Bench multimeter | Test and measurement | The reference instrument the panel meter is checked against. |
+| Soldering station and crimping tool | Assembly | The internal wiring: the mains inlet, the 48 V rail, the step-down regulator and the panel meter. |
 
 ### Build and testing
 
