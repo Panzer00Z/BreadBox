@@ -165,22 +165,19 @@ The build went from printing the enclosure, through fitting the instruments and 
 <td width="33%" align="center"><img src="photos/15-side-view-with-badge.jpg" width="280" alt="Side view of the finished unit with its side badge"><br><sub>Side view</sub></td>
 </tr>
 <tr>
-<td width="33%" align="center"><img src="photos/17-complete-station-on-the-bench.jpg" width="280" alt="The complete station open on the bench with the touchscreen running on the breadboard"><br><sub>Complete station</sub></td>
-<td width="33%" align="center"><img src="photos/18-testing-a-bldc-motor.jpg" width="280" alt="A BLDC motor on the bench powered from the station, with the supply holding 12 V"><br><sub>Testing a BLDC motor</sub></td>
-<td width="33%" align="center"><img src="photos/19-aux-board-in-place.jpg" width="280" alt="The auxiliary board set down beside the open enclosure"><br><sub>Auxiliary board</sub></td>
+<td width="33%" align="center"><img src="photos/17-testing-a-bldc-motor.jpg" width="280" alt="The complete station on the bench with a BLDC motor and its driver board connected to the programmable supply"><br><sub>Testing a BLDC motor</sub></td>
+<td width="33%" align="center"><img src="photos/18-aux-board-in-place.jpg" width="280" alt="The auxiliary board set down beside the open enclosure"><br><sub>Auxiliary board</sub></td>
+<td width="33%" align="center"><img src="photos/19-upper-module-interior.jpg" width="280" alt="Interior of the upper module showing the internal 48 V supply, the auxiliary 5 V converter and the cable runs"><br><sub>Upper module interior</sub></td>
 </tr>
 <tr>
-<td width="33%" align="center"><img src="photos/20-upper-module-interior.jpg" width="280" alt="Interior of the upper module showing the internal 48 V supply, the auxiliary 5 V converter and the cable runs"><br><sub>Upper module interior</sub></td>
-<td width="33%" align="center"><img src="photos/21-station-alongside-a-multimeter.jpg" width="280" alt="The station on the bench next to an orange multimeter"><br><sub>Station alongside a multimeter</sub></td>
-<td width="33%" align="center"><img src="photos/22-station-side-view-on-desk.jpg" width="280" alt="Side view of the station on the desk"><br><sub>Station on the desk</sub></td>
+<td width="33%" align="center"><img src="photos/20-station-alongside-a-multimeter.jpg" width="280" alt="The station on the bench next to an orange multimeter"><br><sub>Station alongside a multimeter</sub></td>
+<td width="33%" align="center"><img src="photos/21-station-side-view-on-desk.jpg" width="280" alt="Side view of the station on the desk"><br><sub>Station on the desk</sub></td>
+<td width="33%" align="center"><img src="photos/22-rear-of-the-enclosure.jpg" width="280" alt="Closed rear of the enclosure showing the power switch and the incoming cable"><br><sub>Rear of the enclosure</sub></td>
 </tr>
 <tr>
-<td width="33%" align="center"><img src="photos/23-rear-of-the-enclosure.jpg" width="280" alt="Closed rear of the enclosure showing the power switch and the incoming cable"><br><sub>Rear of the enclosure</sub></td>
-<td width="33%" align="center"><img src="photos/24-station-fully-assembled.jpg" width="280" alt="The fully assembled station on the bench"><br><sub>Fully assembled</sub></td>
-<td width="33%" align="center"><img src="photos/25-front-panel-reinforcement.jpg" width="280" alt="Interior of the upper module showing the reinforcing strips around the front panel perimeter"><br><sub>Front panel perimeter reinforcement</sub></td>
-</tr>
-<tr>
-<td width="33%" align="center"><img src="photos/26-station-on-the-desk.jpg" width="280" alt="The station on the desk in front of a monitor, next to a keyboard"><br><sub>Station at the desk</sub></td>
+<td width="33%" align="center"><img src="photos/23-station-fully-assembled.jpg" width="280" alt="The fully assembled station on the bench"><br><sub>Fully assembled</sub></td>
+<td width="33%" align="center"><img src="photos/24-front-panel-reinforcement.jpg" width="280" alt="Interior of the upper module showing the reinforcing strips around the front panel perimeter"><br><sub>Front panel perimeter reinforcement</sub></td>
+<td width="33%" align="center"><img src="photos/25-station-on-the-desk.jpg" width="280" alt="The station on the desk in front of a monitor, next to a keyboard"><br><sub>Station at the desk</sub></td>
 </tr>
 </table>
 </div>
