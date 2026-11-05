@@ -81,19 +81,19 @@ The build went from printing the enclosure, through fitting the instruments and 
 
 <table>
 <tr>
-<td width="3100%" align="center"><img src="photos/01-enclosure-printing-on-the-bed.jpg" width="93" alt="Blue 3D-printed enclosure frame sitting on the bed of a 3D printer mid-print"><br><sub>Printing the enclosure</sub></td>
-<td width="3100%" align="center"><img src="photos/02-first-assembly-open.jpg" width="93" alt="First assembled unit with the front panel open, showing the control panel and the breadboard area"><br><sub>First assembly</sub></td>
-<td width="3100%" align="center"><img src="photos/03-side-profile-first-assembly.jpg" width="93" alt="Side view of the assembled unit on a desk"><br><sub>Side profile</sub></td>
+<td width="33%" align="center"><img src="photos/01-enclosure-printing-on-the-bed.jpg" width="280" alt="Blue 3D-printed enclosure frame sitting on the bed of a 3D printer mid-print"><br><sub>Printing the enclosure</sub></td>
+<td width="33%" align="center"><img src="photos/02-first-assembly-open.jpg" width="280" alt="First assembled unit with the front panel open, showing the control panel and the breadboard area"><br><sub>First assembly</sub></td>
+<td width="33%" align="center"><img src="photos/03-side-profile-first-assembly.jpg" width="280" alt="Side view of the assembled unit on a desk"><br><sub>Side profile</sub></td>
 </tr>
 <tr>
-<td width="3100%" align="center"><img src="photos/04-internal-supply-and-breadboard.jpg" width="93" alt="Interior of the unit showing the enclosed power supply and the breadboard"><br><sub>Internals: supply and work surface</sub></td>
-<td width="3100%" align="center"><img src="photos/05-top-down-panel-layout.jpg" width="93" alt="Top-down view of the open unit showing the breadboard in the centre and the control panel at the front"><br><sub>Panel and work surface layout</sub></td>
-<td width="3100%" align="center"><img src="photos/06-instrument-bay-open.jpg" width="93" alt="Instrument bay showing the display module, the regulator board with heatsink and toroidal inductor, and the mains switch"><br><sub>Instrument bay</sub></td>
+<td width="33%" align="center"><img src="photos/04-internal-supply-and-breadboard.jpg" width="280" alt="Interior of the unit showing the enclosed power supply and the breadboard"><br><sub>Internals: supply and work surface</sub></td>
+<td width="33%" align="center"><img src="photos/05-top-down-panel-layout.jpg" width="280" alt="Top-down view of the open unit showing the breadboard in the centre and the control panel at the front"><br><sub>Panel and work surface layout</sub></td>
+<td width="33%" align="center"><img src="photos/06-instrument-bay-open.jpg" width="280" alt="Instrument bay showing the display module, the regulator board with heatsink and toroidal inductor, and the mains switch"><br><sub>Instrument bay</sub></td>
 </tr>
 <tr>
-<td width="3100%" align="center"><img src="photos/07-empty-enclosure.jpg" width="93" alt="Empty printed enclosure bottom with the internal ribs and standoffs visible"><br><sub>Empty enclosure</sub></td>
-<td width="3100%" align="center"><img src="photos/08-rear-panel-detail.jpg" width="93" alt="Printed rear panel with its fixing points"><br><sub>Rear panel</sub></td>
-<td width="3100%" align="center"><img src="photos/09-internal-supply-installation.jpg" width="93" alt="Interior with the power supply installed and wired"><br><sub>Supply installed</sub></td>
+<td width="33%" align="center"><img src="photos/07-empty-enclosure.jpg" width="280" alt="Empty printed enclosure bottom with the internal ribs and standoffs visible"><br><sub>Empty enclosure</sub></td>
+<td width="33%" align="center"><img src="photos/08-rear-panel-detail.jpg" width="280" alt="Printed rear panel with its fixing points"><br><sub>Rear panel</sub></td>
+<td width="33%" align="center"><img src="photos/09-internal-supply-installation.jpg" width="280" alt="Interior with the power supply installed and wired"><br><sub>Supply installed</sub></td>
 </tr>
 </table>
 </div>
@@ -130,63 +130,63 @@ The build went from printing the enclosure, through fitting the instruments and 
 
 <table>
 <tr>
-<td width="3100%" align="center"><img src="photos/01-enclosure-printing-on-the-bed.jpg" width="93" alt="Blue 3D-printed enclosure frame sitting on the bed of a 3D printer mid-print"><br><sub>Printing the enclosure</sub></td>
-<td width="3100%" align="center"><img src="photos/02-first-assembly-open.jpg" width="93" alt="First assembled unit with the front panel open, showing the control panel and the breadboard area"><br><sub>First assembly</sub></td>
-<td width="3100%" align="center"><img src="photos/03-side-profile-first-assembly.jpg" width="93" alt="Side view of the assembled unit on a desk"><br><sub>Side profile</sub></td>
+<td width="33%" align="center"><img src="photos/01-enclosure-printing-on-the-bed.jpg" width="280" alt="Blue 3D-printed enclosure frame sitting on the bed of a 3D printer mid-print"><br><sub>Printing the enclosure</sub></td>
+<td width="33%" align="center"><img src="photos/02-first-assembly-open.jpg" width="280" alt="First assembled unit with the front panel open, showing the control panel and the breadboard area"><br><sub>First assembly</sub></td>
+<td width="33%" align="center"><img src="photos/03-side-profile-first-assembly.jpg" width="280" alt="Side view of the assembled unit on a desk"><br><sub>Side profile</sub></td>
 </tr>
 <tr>
-<td width="3100%" align="center"><img src="photos/04-internal-supply-and-breadboard.jpg" width="93" alt="Interior of the unit showing the enclosed power supply and the breadboard"><br><sub>Internals: supply and work surface</sub></td>
-<td width="3100%" align="center"><img src="photos/05-top-down-panel-layout.jpg" width="93" alt="Top-down view of the open unit showing the breadboard in the centre and the control panel at the front"><br><sub>Panel and work surface layout</sub></td>
-<td width="3100%" align="center"><img src="photos/06-instrument-bay-open.jpg" width="93" alt="Instrument bay showing the display module, the regulator board with heatsink and toroidal inductor, and the mains switch"><br><sub>Instrument bay</sub></td>
+<td width="33%" align="center"><img src="photos/04-internal-supply-and-breadboard.jpg" width="280" alt="Interior of the unit showing the enclosed power supply and the breadboard"><br><sub>Internals: supply and work surface</sub></td>
+<td width="33%" align="center"><img src="photos/05-top-down-panel-layout.jpg" width="280" alt="Top-down view of the open unit showing the breadboard in the centre and the control panel at the front"><br><sub>Panel and work surface layout</sub></td>
+<td width="33%" align="center"><img src="photos/06-instrument-bay-open.jpg" width="280" alt="Instrument bay showing the display module, the regulator board with heatsink and toroidal inductor, and the mains switch"><br><sub>Instrument bay</sub></td>
 </tr>
 <tr>
-<td width="3100%" align="center"><img src="photos/07-empty-enclosure.jpg" width="93" alt="Empty printed enclosure bottom with the internal ribs and standoffs visible"><br><sub>Empty enclosure</sub></td>
-<td width="3100%" align="center"><img src="photos/08-rear-panel-detail.jpg" width="93" alt="Printed rear panel with its fixing points"><br><sub>Rear panel</sub></td>
-<td width="3100%" align="center"><img src="photos/09-internal-supply-installation.jpg" width="93" alt="Interior with the power supply installed and wired"><br><sub>Supply installed</sub></td>
+<td width="33%" align="center"><img src="photos/07-empty-enclosure.jpg" width="280" alt="Empty printed enclosure bottom with the internal ribs and standoffs visible"><br><sub>Empty enclosure</sub></td>
+<td width="33%" align="center"><img src="photos/08-rear-panel-detail.jpg" width="280" alt="Printed rear panel with its fixing points"><br><sub>Rear panel</sub></td>
+<td width="33%" align="center"><img src="photos/09-internal-supply-installation.jpg" width="280" alt="Interior with the power supply installed and wired"><br><sub>Supply installed</sub></td>
 </tr>
 <tr>
-<td width="3100%" align="center"><img src="photos/10-regulator-stage-detail.jpg" width="93" alt="Close-up of the regulator stage: heatsink, toroidal inductor, regulator board and the alligator clips carrying output"><br><sub>Regulator stage</sub></td>
-<td width="3100%" align="center"><img src="photos/11-power-rail-distribution.jpg" width="93" alt="Power distribution with the rail breakout box and its labelled connections"><br><sub>Power rail distribution</sub></td>
-<td width="3100%" align="center"><img src="photos/12-bench-use-with-prototype.jpg" width="93" alt="Unit open on the desk with a prototype on the breadboard and the programmable supply running"><br><sub>Bench use with a prototype</sub></td>
+<td width="33%" align="center"><img src="photos/10-regulator-stage-detail.jpg" width="280" alt="Close-up of the regulator stage: heatsink, toroidal inductor, regulator board and the alligator clips carrying output"><br><sub>Regulator stage</sub></td>
+<td width="33%" align="center"><img src="photos/11-power-rail-distribution.jpg" width="280" alt="Power distribution with the rail breakout box and its labelled connections"><br><sub>Power rail distribution</sub></td>
+<td width="33%" align="center"><img src="photos/12-bench-use-with-prototype.jpg" width="280" alt="Unit open on the desk with a prototype on the breadboard and the programmable supply running"><br><sub>Bench use with a prototype</sub></td>
 </tr>
 <tr>
-<td width="3100%" align="center"><img src="photos/13-front-panel-complete.jpg" width="93" alt="Front panel with the programmable supply, display and meter, and the breadboard below"><br><sub>Front panel complete</sub></td>
-<td width="3100%" align="center"><img src="photos/14-panel-in-use.jpg" width="93" alt="A hand pointing at the panel, showing the readout while the unit is in use"><br><sub>Using the panel</sub></td>
-<td width="3100%" align="center"><img src="photos/15-supply-readout.jpg" width="93" alt="Close-up of the supply readout showing voltage and current with the output clips attached"><br><sub>Supply readout</sub></td>
+<td width="33%" align="center"><img src="photos/13-front-panel-complete.jpg" width="280" alt="Front panel with the programmable supply, display and meter, and the breadboard below"><br><sub>Front panel complete</sub></td>
+<td width="33%" align="center"><img src="photos/14-panel-in-use.jpg" width="280" alt="A hand pointing at the panel, showing the readout while the unit is in use"><br><sub>Using the panel</sub></td>
+<td width="33%" align="center"><img src="photos/15-supply-readout.jpg" width="280" alt="Close-up of the supply readout showing voltage and current with the output clips attached"><br><sub>Supply readout</sub></td>
 </tr>
 <tr>
-<td width="3100%" align="center"><img src="photos/16-side-view-with-badge.jpg" width="93" alt="Side view of the finished unit with its side badge"><br><sub>Side view</sub></td>
-<td width="3100%" align="center"><img src="photos/17-dc-jack-detail.jpg" width="93" alt="Barrel power jack mounted on the side of the enclosure"><br><sub>DC jack</sub></td>
-<td width="3100%" align="center"><img src="photos/19-complete-station-on-the-bench.jpg" width="93" alt="The complete station open on the bench with the touchscreen running on the breadboard"><br><sub>Complete station</sub></td>
+<td width="33%" align="center"><img src="photos/16-side-view-with-badge.jpg" width="280" alt="Side view of the finished unit with its side badge"><br><sub>Side view</sub></td>
+<td width="33%" align="center"><img src="photos/17-dc-jack-detail.jpg" width="280" alt="Barrel power jack mounted on the side of the enclosure"><br><sub>DC jack</sub></td>
+<td width="33%" align="center"><img src="photos/19-complete-station-on-the-bench.jpg" width="280" alt="The complete station open on the bench with the touchscreen running on the breadboard"><br><sub>Complete station</sub></td>
 </tr>
 <tr>
-<td width="3100%" align="center"><img src="photos/20-adjusting-the-supply.jpg" width="93" alt="A hand on the rotary encoder of the programmable supply"><br><sub>Adjusting the supply</sub></td>
-<td width="3100%" align="center"><img src="photos/21-service-access-interior.jpg" width="93" alt="Interior with the supply in place while the unit is being serviced"><br><sub>Service access</sub></td>
-<td width="3100%" align="center"><img src="photos/22-aux-board-soldering.jpg" width="93" alt="A small auxiliary board being soldered on the bench"><br><sub>Hand-soldering an auxiliary board</sub></td>
+<td width="33%" align="center"><img src="photos/20-adjusting-the-supply.jpg" width="280" alt="A hand on the rotary encoder of the programmable supply"><br><sub>Adjusting the supply</sub></td>
+<td width="33%" align="center"><img src="photos/21-service-access-interior.jpg" width="280" alt="Interior with the supply in place while the unit is being serviced"><br><sub>Service access</sub></td>
+<td width="33%" align="center"><img src="photos/22-aux-board-soldering.jpg" width="280" alt="A small auxiliary board being soldered on the bench"><br><sub>Hand-soldering an auxiliary board</sub></td>
 </tr>
 <tr>
-<td width="3100%" align="center"><img src="photos/23-aux-board-in-place.jpg" width="93" alt="The auxiliary board set down beside the open enclosure"><br><sub>Auxiliary board</sub></td>
-<td width="3100%" align="center"><img src="photos/24-internal-wiring-overview.jpg" width="93" alt="Interior overview showing the power board and the cable runs"><br><sub>Internal wiring overview</sub></td>
-<td width="3100%" align="center"><img src="photos/25-station-on-the-bench-with-multimeter.jpg" width="93" alt="The station on the bench next to an orange multimeter"><br><sub>Station alongside a bench multimeter</sub></td>
+<td width="33%" align="center"><img src="photos/23-aux-board-in-place.jpg" width="280" alt="The auxiliary board set down beside the open enclosure"><br><sub>Auxiliary board</sub></td>
+<td width="33%" align="center"><img src="photos/24-internal-wiring-overview.jpg" width="280" alt="Interior overview showing the power board and the cable runs"><br><sub>Internal wiring overview</sub></td>
+<td width="33%" align="center"><img src="photos/25-station-on-the-bench-with-multimeter.jpg" width="280" alt="The station on the bench next to an orange multimeter"><br><sub>Station alongside a bench multimeter</sub></td>
 </tr>
 <tr>
-<td width="3100%" align="center"><img src="photos/26-station-side-view-on-desk.jpg" width="93" alt="Side view of the station on the desk"><br><sub>Station on the desk</sub></td>
-<td width="3100%" align="center"><img src="photos/27-rear-of-the-enclosure.jpg" width="93" alt="Closed rear of the enclosure showing the power switch and the incoming cable"><br><sub>Rear of the enclosure</sub></td>
-<td width="3100%" align="center"><img src="photos/28-panel-held-in-hand.jpg" width="93" alt="The front panel held in hand, showing the supply, oscilloscope and voltmeter"><br><sub>The panel as a unit</sub></td>
+<td width="33%" align="center"><img src="photos/26-station-side-view-on-desk.jpg" width="280" alt="Side view of the station on the desk"><br><sub>Station on the desk</sub></td>
+<td width="33%" align="center"><img src="photos/27-rear-of-the-enclosure.jpg" width="280" alt="Closed rear of the enclosure showing the power switch and the incoming cable"><br><sub>Rear of the enclosure</sub></td>
+<td width="33%" align="center"><img src="photos/28-panel-held-in-hand.jpg" width="280" alt="The front panel held in hand, showing the supply, oscilloscope and voltmeter"><br><sub>The panel as a unit</sub></td>
 </tr>
 <tr>
-<td width="3100%" align="center"><img src="photos/29-touchscreen-running.jpg" width="93" alt="The station with the touchscreen on the breadboard showing a live plot"><br><sub>Touchscreen running</sub></td>
-<td width="3100%" align="center"><img src="photos/30-rotary-encoder-detail.jpg" width="93" alt="Close-up of the rotary encoder and its mounting"><br><sub>Rotary encoder detail</sub></td>
-<td width="3100%" align="center"><img src="photos/31-station-fully-assembled.jpg" width="93" alt="The fully assembled station on the bench"><br><sub>Fully assembled</sub></td>
+<td width="33%" align="center"><img src="photos/29-touchscreen-running.jpg" width="280" alt="The station with the touchscreen on the breadboard showing a live plot"><br><sub>Touchscreen running</sub></td>
+<td width="33%" align="center"><img src="photos/30-rotary-encoder-detail.jpg" width="280" alt="Close-up of the rotary encoder and its mounting"><br><sub>Rotary encoder detail</sub></td>
+<td width="33%" align="center"><img src="photos/31-station-fully-assembled.jpg" width="280" alt="The fully assembled station on the bench"><br><sub>Fully assembled</sub></td>
 </tr>
 <tr>
-<td width="3100%" align="center"><img src="photos/32-foam-padding-added.jpg" width="93" alt="Interior of the enclosure after foam padding was added between the modules"><br><sub>Foam padding added</sub></td>
-<td width="3100%" align="center"><img src="photos/33-station-on-the-desk.jpg" width="93" alt="The station on the desk in front of a monitor, next to a keyboard"><br><sub>Station at the desk</sub></td>
-<td width="3100%" align="center"><img src="photos/34-breadboard-wiring-detail.jpg" width="93" alt="Close-up of the breadboard area with ribbon wiring and a small module with status LEDs lit"><br><sub>Breadboard wiring detail</sub></td>
+<td width="33%" align="center"><img src="photos/32-foam-padding-added.jpg" width="280" alt="Interior of the enclosure after foam padding was added between the modules"><br><sub>Foam padding added</sub></td>
+<td width="33%" align="center"><img src="photos/33-station-on-the-desk.jpg" width="280" alt="The station on the desk in front of a monitor, next to a keyboard"><br><sub>Station at the desk</sub></td>
+<td width="33%" align="center"><img src="photos/34-breadboard-wiring-detail.jpg" width="280" alt="Close-up of the breadboard area with ribbon wiring and a small module with status LEDs lit"><br><sub>Breadboard wiring detail</sub></td>
 </tr>
 <tr>
-<td width="3100%" align="center"><img src="photos/35-test-module-on-breadboard.jpg" width="93" alt="Close-up of the breadboard showing a small controller module, a sensor module and the labelled 5 V terminal"><br><sub>Test module on the breadboard</sub></td>
-<td width="3100%" align="center"><img src="photos/36-overhead-work-area.jpg" width="93" alt="Overhead view of the breadboard work area"><br><sub>Overhead work area</sub></td>
+<td width="33%" align="center"><img src="photos/35-test-module-on-breadboard.jpg" width="280" alt="Close-up of the breadboard showing a small controller module, a sensor module and the labelled 5 V terminal"><br><sub>Test module on the breadboard</sub></td>
+<td width="33%" align="center"><img src="photos/36-overhead-work-area.jpg" width="280" alt="Overhead view of the breadboard work area"><br><sub>Overhead work area</sub></td>
 </tr>
 </table>
 </div>
