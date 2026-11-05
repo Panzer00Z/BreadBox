@@ -156,7 +156,7 @@ The build went from printing the enclosure, through fitting the instruments and 
 </tr>
 <tr>
 <td width="33%" align="center"><img src="photos/10-rear-of-panel-with-reinforcements.jpg" width="280" alt="Rear of the front panel showing the printed reinforcements that stiffen it"><br><sub>Rear of panel with reinforcements</sub></td>
-<td width="33%" align="center"><img src="photos/11-internal-wiring.jpg" width="280" alt="Internal wiring: the rail breakout and its labelled connections inside the upper module"><br><sub>Internal wiring</sub></td>
+<td width="33%" align="center"><img src="photos/11-internal-wiring.jpg" width="280" alt="The upper module interior with the rail breakout, its labelled connections and the cable runs"><br><sub>Internal wiring</sub></td>
 <td width="33%" align="center"><img src="photos/12-bench-use-with-prototype.jpg" width="280" alt="Unit open on the desk with a prototype on the breadboard and the programmable supply running"><br><sub>Bench use with a prototype</sub></td>
 </tr>
 <tr>
